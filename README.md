@@ -5,3 +5,7 @@ The Fly-Super8 can be purchased from here https://www.aliexpress.com/item/100500
 RRF Information can be found here https://teamgloomy.github.io/fly_super8_general.html
 
 Klipper information can be found here https://mellow.klipper.cn/#/board/fly_super8/ and here https://mellow-3d.github.io/fly-super8_general.html
+
+For Klipper support please join this Discord Channel https://discord.gg/zAung88zbK
+
+For RRF support please join this Discord Channel https://discord.gg/uS97Qs7
