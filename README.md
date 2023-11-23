@@ -6,7 +6,7 @@ This link is affiliated URL. If you purchase via link above it will give tiny ce
 
 RRF Information can be found here https://teamgloomy.github.io/fly_super8_general.html
 
-Klipper information can be found here https://mellow.klipper.cn/#/board/fly_super8/ and here https://mellow-3d.github.io/fly-super8_general.html
+Klipper information can be found on the [mellow.klipper.cn](https://mellow.klipper.cn/#/board/fly_super8/) and [mellow-3d.github.io](https://mellow-3d.github.io/fly_super8.html) pages.
 
 For Klipper support please join this Discord Channel https://discord.gg/zAung88zbK
 
